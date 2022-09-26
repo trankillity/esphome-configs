@@ -38,7 +38,7 @@ wifi:
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://trankillity/athom-configs/athom-smart-plug-v2.yaml
+  package_import_url: github://trankillity/esphome-configs/athom-smart-plug-v2.yaml
 
 uart:
   rx_pin: RX
